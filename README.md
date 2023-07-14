@@ -48,7 +48,7 @@ Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输
         "enabled": true,
         "destOverride": ["http", "tls"]
       },
-      "settings": {
+      "settings": {111assf
         "auth": "noauth",
         "udp": false
       }
